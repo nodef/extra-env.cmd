@@ -1,4 +1,4 @@
-﻿Get or set Environment variables in Windows Console.
+Get or set Environment variables in Windows Console.
 > 1. Download [exe file](https://github.com/cmdf/extra-env/releases/download/1.0.0/eenv.exe).
 > 2. Copy to `C:\Program_Files\Scripts`.
 > 3. Add `C:\Program_Files\Scripts` to `PATH` environment variable.
@@ -57,3 +57,4 @@
 
 
 [![cmdf](https://i.imgur.com/pZjAAcb.jpg)](https://cmdf.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/extra-env.cmd)
